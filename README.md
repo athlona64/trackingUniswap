@@ -12,8 +12,10 @@ DECIMAL=1e18
 SYMBOL=FSW
 ```
 
-```npm i```
-```node monitorUniswap.js```
+```
+npm i
+node monitorUniswap.js
+```
 
 
 
